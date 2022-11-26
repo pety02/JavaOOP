@@ -22,6 +22,7 @@ public class Arithmetic {
         product = num1 * num2 * num3;
         average = sum / 3;
 
+        // new changes
         System.out.printf( "The sum is " + sum +
                 "\nThe product is " + product +  "\nThe average is "
                 + average, "Results");
